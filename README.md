@@ -3,7 +3,7 @@
 A simple dice game built with HTML, CSS, and JavaScript.
 
 
-![Dice Game Demo](ezgif.com-video-to-gif.gif)
+![Dice Game Demo](https://gifyu.com/image/SnJyM)
 
 ## How to Play
 
