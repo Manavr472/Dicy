@@ -2,6 +2,9 @@
 
 A simple dice game built with HTML, CSS, and JavaScript.
 
+
+![Dice Game Demo](ezgif.com-video-to-gif.gif)
+
 ## How to Play
 
 1. Open the `index.html` file in a web browser.
@@ -9,12 +12,13 @@ A simple dice game built with HTML, CSS, and JavaScript.
 3. The dice images will animate and display random numbers.
 4. Enjoy playing the game and have fun!
 
-## Screenshots
-
-Include screenshots of your dice game here, if applicable.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+
+## Credits
+
+The dice images used in this game are from [Dice Roller app from Google Developer](https://github.com/google-developer-training/android-basics-kotlin-dice-roller-with-images-app-solution/raw/master/dice_images.zip).
